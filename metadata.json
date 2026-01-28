@@ -1,0 +1,7 @@
+{
+  "name": "Excel Table Processor BB",
+  "description": "A web application that allows users to paste table data from Excel (or similar) and transforms it. It sorts the data, calculates a new 'Importe' column from 'Cargos' and 'Abonos', and displays a cleaned-up version of the table.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ]
+}
